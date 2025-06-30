@@ -1,0 +1,96 @@
+/* 
+p {
+    color: rgb(255, 255, 0);
+    color: #FFFF00;
+    background-color: rgba(255, 0, 0, 0.2);
+
+    lista di font di fallback 
+    font-family: "Montserrat", sans-serif;
+    font-weight: light;
+    font-style: italic;
+    font-size: 24px;
+}
+*/
+
+/*
+p {
+    text-align: center;
+}
+*/
+
+/*
+.container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUAfyVe3Easiycyh3isP9wDQTYuSmGPsPQvLIJdEYvQ_DsFq5Ez2Nh_QjiS3oZ3B8ZPfK9cZQyIStmQMV1lDPLw");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+*/
+
+/*
+.container {
+    background-image: linear-gradient(125deg,rgba(48, 22, 219, 1) 0%, rgba(219, 29, 168, 1) 100%);
+}
+*/
+
+
+/*
+h2 {
+    color: blue;
+}
+
+p {
+    background-color: red;
+    color: green;
+}
+*/
+
+
+
+
+
+/* 
+p {
+    color: red;
+    color: green;
+}
+*/
+
+
+/*
+p {
+    color: red;
+}
+
+p {
+    color: green;
+}
+*/
+
+
+/*
+* {
+
+}
+
+p {
+    color: red;
+}
+
+.elementoBello {
+    color: green;
+}
+*/
+
+
+
+* {
+    font-family: "Montserrat", Arial, sans-serif;
+}
+
+h2 {
+    font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+
+
+
