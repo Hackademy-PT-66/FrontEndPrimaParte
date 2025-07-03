@@ -1,0 +1,138 @@
+
+/* 
+h1 {
+    height: 50vh;
+
+    background-color: red;
+}
+
+.container {
+    width: 700px;
+    background-color: blue;
+} 
+*/
+
+/*
+main {
+    padding: 24px;
+}
+
+.container {
+
+    margin: 48px;
+
+    border-width: 8px;
+    border-style: solid;
+    border-color: blue;
+
+    shorthand
+    border: 8px solid blue;
+
+
+    padding-top: 24px;
+    padding-right: 12px;
+    padding-bottom: 36px;
+    padding-left: 48px;
+
+    shorthand
+    padding: 24px 12px 36px 48px;
+    padding: 24px 48px;     // y x
+    padding: 48px;
+
+    box-shadow: 0px 6px 32px -8px rgba(0, 0, 0, 0.6); 
+    background-color: red;
+}
+*/
+
+/*
+.container {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 50%;
+    background-color: red;
+}
+*/
+
+/* CSS Reset
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 48px;
+    width: 100%;
+}
+
+.container {
+
+    margin-bottom: 24px;
+    border: 10px solid blue;
+    padding: 48px;
+    width: 100%;   // border-left-width + padding-left + widthContenuto + padding-right + border-right-width
+
+    background-color: red;
+}
+*/
+
+
+/* p {
+    display: inline-block;
+    padding: 48px;
+    background-color: red;
+} */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+.container {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 800px;
+    background-color: blue;
+}
+
+.item {
+
+    border: 2px solid red;
+    padding: 48px;
+    color: white;
+}
+*/
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+
+    background-color: blue;
+}
+
+.item {
+    border: 2px solid red;
+    padding: 48px;
+    width: 100%;
+    color: white;
+}
+
+/*
+.item {
+    width: 50%;
+}
+*/
+
+/* 
+.item {
+    width: 33.3%;
+}
+*/
+
