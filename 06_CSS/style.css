@@ -1,0 +1,193 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+.container p{
+    color: red;
+}
+*/
+
+/*
+.container > p {
+    color: red;
+}
+*/
+
+/*
+h1, h2, .container {
+    background-color: blue;
+    color: red;
+}
+*/
+
+/*
+.blue-bg {
+    background-color: blue;
+}
+
+.red-text {
+    color: red;
+}
+
+.yellow-text {
+    color: yellow;
+}
+*/
+
+
+
+
+/* 
+p {
+    color: red;
+}
+
+una media query -> direttiva CSS - at rule
+a partire da un minimo di larghezza di schermo di 500px in su
+@media screen and (min-width: 500px) {
+    p {
+        color: blue;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    p {
+        color: magenta;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    p {
+        color: green;
+    }
+}
+*/
+
+
+/*
+div {
+    background-color: blue;
+}
+
+p {
+    border: 2px solid red;
+    padding: 24px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container > p {
+    width: 100%;
+}
+
+@media screen and (min-width: 700px) {
+    .container > p {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .container > p {
+        width: 33.3%;
+    }
+}
+*/
+
+/*
+p {
+    border: 2px solid red;
+    padding: 24px;
+    color: white;
+    background-color: magenta;
+}
+
+body {
+    padding: 48px;
+}
+
+.super-container {
+
+    
+    padding: 48px;
+    background-color: brown;
+}
+
+.container {
+    position: relative;
+
+    padding: 48px;
+    background-color: blue;
+}
+
+.drop {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    background-color: yellow;
+}
+*/
+
+/*
+main {
+    padding: 48px;
+}
+
+.announcement {
+    position: relative;
+
+    border-radius: 24px;
+}
+
+.announcement .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 24px;
+    width: 100%;
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.announcement img {
+    display: block;
+
+    border-radius: 24px;
+    width: 100%;
+}
+*/
+
+/*
+p {
+    padding: 48px;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+
+
+    background-color: red;
+}
+*/
+
+.icon {
+    font-size: 24px;
+    color: red;
+}
